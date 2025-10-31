@@ -27,3 +27,4 @@ select * from CITY WHERE countrycode="USA" AND Population>100000;
 
 select cname from city
 where countrycode='USA'AND population>120000;
+
